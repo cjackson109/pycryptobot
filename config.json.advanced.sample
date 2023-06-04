@@ -3,7 +3,7 @@
         "api_url": "https://api.coinbase.com",
         "api_key_file": "coinbase.key",
         "config": {
-            "base_currency" : "BTC",
+            "base_currency" : "ADA",
             "quote_currency" : "USD",
             "live" : 0,
             "websocket" : 0,
